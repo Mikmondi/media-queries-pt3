@@ -1,0 +1,13 @@
+@media only screen and (min-width:400px){
+    body{
+     font-size: 20px;
+     color: red;
+    }
+    div{
+        width: 200px;
+        padding: 0px;
+      }
+      p{
+        font-size: 50px;
+      }
+  }
